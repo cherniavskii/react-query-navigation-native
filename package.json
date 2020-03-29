@@ -1,6 +1,6 @@
 {
   "name": "react-query-navigation-native",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React Query + React Navigation",
   "main": "index.js",
   "scripts": {
