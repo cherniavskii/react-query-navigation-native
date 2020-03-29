@@ -1,4 +1,7 @@
 # react-query-navigation-native
+
+[![](https://img.shields.io/npm/v/react-query-navigation-native)](https://www.npmjs.com/package/react-query-navigation-native)
+
 Integrates [React Query](https://github.com/tannerlinsley/react-query) with [React Navigation](https://reactnavigation.org/) for React Native apps.
 
 ## Features
