@@ -1,0 +1,31 @@
+{
+  "name": "react-query-navigation-native",
+  "version": "0.1.0",
+  "description": "React Query + React Navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherniavskii/react-query-navigation-native.git"
+  },
+  "keywords": [
+    "react-query",
+    "react-navigation"
+  ],
+  "author": "cherniavskii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherniavskii/react-query-navigation-native/issues"
+  },
+  "homepage": "https://github.com/cherniavskii/react-query-navigation-native#readme",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-query": ">=1.0.0"
+  },
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-query": "^1.1.7"
+  }
+}
