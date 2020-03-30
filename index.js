@@ -24,10 +24,10 @@ function useQuery(...args) {
 
   useFocusEffect(React.useCallback(() => {
     // do not refetch when query is initially mounted
-    if (isMountedRef.current) {
+    if (isMountedRef.current && query.config.manual !== true) {
       query.refetch()
     }
-  }, [query.refetch]))
+  }, [query.refetch, query.config.manual]))
 
   React.useEffect(() => {
     isMountedRef.current = true;
